@@ -43,7 +43,7 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 #### Hosts 
 - Nic Weber, University of Washington - Information School 
 - Daniel S. Katz, University of Illinois Urbana-Champaign - NCSA
-- Peter Teuben, University of Maryalnd - 
+- Peter Teuben, University of Maryalnd  
 
 #### Participants
 - Ashley Sands, IMLS 
