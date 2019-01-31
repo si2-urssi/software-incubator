@@ -1,4 +1,4 @@
-# Software Incubators
+# URSSI Community Workshop 4: Software Incubators
 
 February 11-12, 2019, College Park, Maryland. 
 
