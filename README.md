@@ -4,9 +4,7 @@ February 11-12, 2019, College Park, Maryland.
 
 Welcome to the repository for the Software incubators of the US Research Software Sustainability Institute conceptualization. A brief schedule and plan for the workshop is below. 
 
-Meetings both days will take place at the University of Maryland's [Physical Sciences Complex (PSC)](https://cmns.umd.edu/psc) in room 1136. This is ~10 min walk from the hotel where most attendees are staying. 
-
-![Route to Meeting Room](https://raw.githubusercontent.com/si2-urssi/software-incubator/master/hotel-meetingroom.png "Route to Meeting Room from Hotel")
+Meetings both days will take place at the University of Maryland's [Physical Sciences Complex (PSC)](https://cmns.umd.edu/psc) in room 1136. This is ~10 min walk from the hotel where most attendees are staying. (Map below)
 
 ### Tentative schedule
 
@@ -60,5 +58,6 @@ Meetings both days will take place at the University of Maryland's [Physical Sci
 - Annie Burgess, ESIP 
 - Jeff Carver, University of Alabama
 
+### Map to Room Meeting Location
+![Route to Meeting Room](https://raw.githubusercontent.com/si2-urssi/software-incubator/master/hotel-meetingroom.png)
 
-![URSSI](https://i.imgur.com/wY1qvuE.png)
