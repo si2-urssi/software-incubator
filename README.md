@@ -44,6 +44,7 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 - Nic Weber, University of Washington - Information School 
 - Daniel S. Katz, University of Illinois Urbana-Champaign - NCSA
 - Peter Teuben, University of Maryalnd  
+- Sandra Gessing, Notre Dame
 
 #### Participants
 - Ashley Sands, IMLS 
@@ -58,6 +59,7 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 - Micaela Parker, University of Washington - eScience Institute
 - Abby Cabunoc Mayes, Mozilla Foundation 
 - David Lesmes, U.S. Department of Energy 
+- Kelcy Shepherd, IMLS
 
 #### Remote 
 - Annie Burgess, ESIP 
