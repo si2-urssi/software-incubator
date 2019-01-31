@@ -4,7 +4,10 @@ February 11-12, 2019, College Park, Maryland.
 
 Welcome to the repository for the Software incubators of the US Research Software Sustainability Institute conceptualization. A brief schedule and plan for the workshop is below. 
 
-Meetings both days will take place at the University of Maryland's [Physical Sciences Complex (PSC)](https://cmns.umd.edu/psc) in room 1136. This is ~10 min walk from the hotel where most attendees are staying. (Map below)
+Our main goal in this workshop is to envision a plan for URSSI supporting new and existing software projects that face challenges in attracting contributors and maintainers, setting up a governance model, seeking out or managing funding sources, and generally developing reusable research software. At the [first URSSI community meeting in Berkeley](http://urssi.us/blog/2018/08/23/report-from-the-first-urssi-workshop/) (April 2018) there was a good deal of enthusiasm for URSSI setting up and running our own incubator program, or developing outreach activities that would help support sustainability efforts within existing incubator programs. We hope to use this focused workshop to further flesh out those initial ideas, gather relevant knowledge about models of fostering succesful research software projects (from a variety of disciplines and domains), and come away with a plan to incorporate this information into a future proposal for NSF to fund URSSI. 
+
+### Meeting Location
+Meetings both days will take place at the University of Maryland's [Physical Sciences Complex (PSC)](https://cmns.umd.edu/psc) in room 1136. This is ~10 min walk from the hotel where most attendees are staying. (Please see the map below). 
 
 ### Tentative schedule
 
