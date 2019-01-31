@@ -36,7 +36,7 @@ Meetings both days will take place at the University of Maryland's [Physical Sci
 | 12 - 1  | Lunch     |     
 | 1 - 3   | Breakouts and discussions - Closing |  
 
-* We plan to break at 3 so that attendees can make their booked flights, but we have the room at UM until 6pm. 
+On the 12th, we plan to break at 3 so that attendees can catch booked flights, but we have the room at UM until 6pm. 
 
 ### Confirmed participants
 
