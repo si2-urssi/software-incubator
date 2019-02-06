@@ -60,6 +60,7 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 - Abby Cabunoc Mayes, Mozilla Foundation 
 - David Lesmes, U.S. Department of Energy 
 - Kelcy Shepherd, IMLS
+- Dan Sholler - University of California, Berkeley
 
 #### Remote 
 - Annie Burgess, ESIP 
