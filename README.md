@@ -30,12 +30,12 @@ The workshop will consist mostly of presentations and discussion. We are a small
 
 | Time    | Activity                           |
 |---------|------------------------------------|
-| 830-9   | Coffee and set up                  |
+| 830-9   | Set-up / Room Open                 |
 | 9-10    | Introductions, Overview of workshop goals, and URSSI activities - Nic + Dan |
-| 10-11   | Lightning talks from Incubators   |
+| 10-11   | Lightning talks from Incubators [Micaela, Abby, Andy, Suresh] |
 | 11-12   | Discussion and Break out groups (1)|
 | 12-1:30 | Lunch                              |
-| 1:30 -2:30 | Additional Lightning Talks + Success in Open Source presentations |
+| 1:30 -2:30 | Additional Lightning Talks [Annie, Sandra] + Research presentations [Kevin, Dan S.]|
 | 2:30 - 5  | Breakouts and discussions (Theme: TBA). Break for 20 minutes at 3 |
 
 
@@ -57,7 +57,6 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 - Nic Weber, University of Washington - Information School 
 - Daniel S. Katz, University of Illinois Urbana-Champaign - NCSA
 - Peter Teuben, University of Maryalnd  
-- Sandra Gessing, Notre Dame
 
 #### Participants
 - Ashley Sands, IMLS 
@@ -76,6 +75,7 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 - Dan Sholler - University of California, Berkeley
 
 #### Remote 
+- Sandra Gessing, Notre Dame
 - Annie Burgess, ESIP 
 - Jeff Carver, University of Alabama
 
