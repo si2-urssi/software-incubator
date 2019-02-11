@@ -17,13 +17,16 @@ There are many ways to get to the hotel depending on your airport arrival. Check
 ### Wifi Access Information 
 The easiest way to connect to the [UMD Guest Wifi](https://umd.service-now.com/itsc?id=kb_article&sys_id=bb47e1c537a33ec0a90963d2b3990ef9) are through these [directions](https://umd.service-now.com/itsc?id=kb_article&sys_id=bb47e1c537a33ec0a90963d2b3990ef9). There is also eduRoam available. 
 
-### Tentative schedule
-The workshop will consist mostly of presentations and discussion. We are a small group so we will likely limit the amount of break out groups in favor of a full discussion. If you are giving a presentation you can upload directly to the github repository or use this [Google Drive folder](https://drive.google.com/drive/folders/1wEHToRoj4oW6dHpafjPeB2io4MRV1Top?usp=sharing)
-
 **Lunch and Coffee** 
 There is no food allowed in the room that we are now using for the workshop so this limits our ability to have catered lunches. There is a cafe located in the Physical Sciences Complex that serves breakfast and light lunch options. We plan to take a 1.5 hour lunch break on day one, and I will provide nearby (walkable) [options](http://ling.umd.edu/dining/). I'll also make a dinner reservation on the 11th depending on interest from the group. If you arrive early on Sunday and are looking for a place to eat (outside of the hotel) there are lots of nearby [dinining options](http://ling.umd.edu/dining/)
 
-#### 11th
+### Tentative schedule
+The workshop will consist mostly of presentations and discussion. We are a small group so we will likely limit the amount of break out groups in favor of a full discussion. If you are giving a presentation you can upload directly to the github repository or use this [Google Drive folder](https://drive.google.com/drive/folders/1wEHToRoj4oW6dHpafjPeB2io4MRV1Top?usp=sharing)
+
+- Topics for discussion: https://docs.google.com/document/d/1Z34yw4XNi8Ga9d8HNKFehN3_5Af8pLj0SUAkBY-Fnr8/edit 
+- Contribute to notes: https://docs.google.com/document/d/1Xpzfv9BoNzJq7gN4QkN2GOrYbgpjU79bfEnwCdQfFDg/edit 
+
+#### February 11th
 
 | Time    | Activity                           |
 |---------|------------------------------------|
@@ -36,7 +39,7 @@ There is no food allowed in the room that we are now using for the workshop so t
 | 2:30 - 5  | Breakouts and discussions (Theme: TBA). Break for 20 minutes at 3 |
 
 
-#### 12th 
+#### February 12th 
 | Time    | Activity                           |
 |---------|------------------------------------|
 | 830-9   | Coffee and set up                  |
