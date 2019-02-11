@@ -9,7 +9,7 @@ Our main goal in this workshop is to envision a plan for URSSI supporting new an
 At the [first URSSI community meeting in Berkeley](http://urssi.us/blog/2018/08/23/report-from-the-first-urssi-workshop/) (April 2018) there was a good deal of enthusiasm for URSSI setting up and running a new incubator program, or developing outreach activities that would help support sustainability efforts within existing incubator programs. We hope to use this focused workshop to further flesh out those initial ideas, gather relevant knowledge about models of fostering succesful research software projects (from a variety of disciplines and domains), and come away with a plan to incorporate this information into a future proposal for NSF to fund URSSI. 
 
 ### Meeting Location
-Meetings both days will take place at the University of Maryland's [Physical Sciences Complex (PSC)](https://cmns.umd.edu/psc) in room 1136. This is ~10 min walk from the hotel where most attendees are staying. (Please see the map below). 
+Meetings both days will take place at the University of Maryland's [Physical Sciences Complex (PSC)](https://cmns.umd.edu/psc) in room 1136 (take elevator up one floor). This is ~10 min walk from the hotel where most attendees are staying. There is a shuttle available via concierge. (Please see the map below). 
 
 ### Directions to Hotel
 There are many ways to get to the hotel depending on your airport arrival. Check directions [here](https://www.thehotelumd.com/parking-transportation/). There is also a complimentary shuttle provided by the hotel that connects to Public transportation (arrange with the conceirge). 
