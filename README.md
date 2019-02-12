@@ -40,6 +40,10 @@ The workshop will consist mostly of presentations and discussion. We are a small
 
 
 #### February 12th 
+
+Incubator design activity: https://docs.google.com/document/d/1gM-Uk8fpukJLdH1h3y9RhmQrK9EiFRHwBJLVvUoEVz0/edit
+Notes for Day 2: https://docs.google.com/document/d/1CmYVH8TZvbIBGE9qDbecpdJDY28nKaRI59tN9MxAizs/edit 
+
 | Time    | Activity                           |
 |---------|------------------------------------|
 | 9-10    | Research Presentations (Dan S. + Kevin) |
