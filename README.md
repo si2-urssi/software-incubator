@@ -35,21 +35,19 @@ The workshop will consist mostly of presentations and discussion. We are a small
 | 10-11   | Lightning talks from Incubators [Micaela, Abby, Andy, Suresh] |
 | 11-12   | Discussion and Break out groups (1)|
 | 12-1:30 | Lunch                              |
-| 1:30 -2:30 | Additional Lightning Talks [Annie, Sandra] + Research presentations [Kevin, Dan S.]|
+| 1:30 -2:30 | More lightning talks|
 | 2:30 - 5  | Breakouts and discussions (Theme: TBA). Break for 20 minutes at 3 |
 
 
 #### February 12th 
 | Time    | Activity                           |
 |---------|------------------------------------|
-| 830-9   | Coffee and set up                  |
-| 9-10    | Panel Discussion (Theme: TBA)      |
-| 10 - 11 | Speed Writing Exercise - Nic       |
-| 11 - 12 | Discussion (Theme: TBA)            | 
+| 9-10    | Research Presentations (Dan S. + Kevin) |
+| 10 - 11 |  Discussion - Let's design an incubator |
 | 12 - 1  | Lunch     |     
-| 1 - 3   | Breakouts and discussions - Closing |  
+| 1 - 3   | Continued discssion / wrap-up |  
 
-On the 12th, we plan to break at 3 so that attendees can catch booked flights, but we have the room at UM until 6pm. 
+We will break at 3 to catch flights, but we have the room at UM until 6pm if you want to stay and work.  
 
 ### Confirmed participants
 
@@ -72,7 +70,8 @@ On the 12th, we plan to break at 3 so that attendees can catch booked flights, b
 - Abby Cabunoc Mayes, Mozilla Foundation 
 - David Lesmes, U.S. Department of Energy 
 - Kelcy Shepherd, IMLS
-- Dan Sholler - University of California, Berkeley
+- Dan Sholler, University of California, Berkeley
+- Alice Allen, University of Maryland
 
 #### Remote 
 - Sandra Gessing, Notre Dame
